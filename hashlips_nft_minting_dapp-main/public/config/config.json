@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x18504D59AFCD9A7CE0Ea9B0f742aBf081DA20c27",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x18504D59AFCD9A7CE0Ea9B0f742aBf081DA20c27",
+  "NETWORK": {
+    "NAME": "Rinkeby Testnet Network",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "GeoCripto",
+  "SYMBOL": "GC",
+  "MAX_SUPPLY": 30,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 300000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/geocripto",
+  "SHOW_BACKGROUND": true
+}
